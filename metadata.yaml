@@ -1,0 +1,51 @@
+_repo: Stories-by-American-Authors-Volume-5_11437
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Millet, Francis Davis
+    birthdate: 1846
+    deathdate: 1912
+    gutenberg_agent_id: '5851'
+    url: http://www.gutenberg.org/2009/agents/5851
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Davis_Millet
+  - agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+  - agent_name: Arnold, George
+    birthdate: 1834
+    deathdate: 1865
+    gutenberg_agent_id: '5849'
+    url: http://www.gutenberg.org/2009/agents/5849
+    wikipedia: http://en.wikipedia.org/wiki/George_Arnold
+  - agent_name: Mitchell, Edward Page
+    birthdate: 1852
+    deathdate: 1927
+    gutenberg_agent_id: '5852'
+    url: http://www.gutenberg.org/2009/agents/5852
+  - agent_name: Benjamin, Park
+    birthdate: 1849
+    deathdate: 1922
+    gutenberg_agent_id: '5850'
+    url: http://www.gutenberg.org/2009/agents/5850
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: "A Light Man, By James\r\nYatil, By Millet\r\nThe End Of New York,\
+  \ By Benjamin\r\nWhy Thomas Was Discharged, By Arnold\r\nThe Tachypomp, By Mitchell."
+title: Stories by American Authors, Volume 5
+url: http://www.gutenberg.org/ebooks/11437
