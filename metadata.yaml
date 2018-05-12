@@ -1,5 +1,5 @@
 _repo: Stories-by-American-Authors-Volume-5_11437
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Millet, Francis Davis
@@ -30,7 +30,12 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '5850'
     url: http://www.gutenberg.org/2009/agents/5850
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11437#Stories-by-American-Authors-Volume-5
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
